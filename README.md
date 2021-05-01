@@ -9,9 +9,12 @@ This was inspired by [@katherinepeterson](https://www.github.com/katherinepeters
 Make sure you have quickSuggestions enabled in your `settings.json`. By default VSCode turns this off for Markdown.
 
 
-```   "[markdown]": {
+```
+{
+    "[markdown]": {
       "editor.quickSuggestions": true
-   },
+    }
+},
 ```
 
 ## Usage
