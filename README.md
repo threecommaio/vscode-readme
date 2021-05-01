@@ -1,4 +1,4 @@
-# vscode-readme README
+# vscode-readme
 
 This was inspired by [@katherinepeterson](https://www.github.com/katherinepeterson) who made the wonderful [readme.so](https://readme.so/)! Huge thanks.
 
