@@ -1,0 +1,552 @@
+{
+    "acknowledgements": {
+        "Key": "acknowledgements",
+        "Name": "Acknowledgements",
+        "prefix": "ack",
+        "body": [
+            "",
+            "## Acknowledgements",
+            "",
+            " - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)",
+            " - [Awesome README](https://github.com/matiassingers/awesome-readme)",
+            " - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)",
+            "",
+            ""
+        ],
+        "description": "Acknowledgements"
+    },
+    "api reference": {
+        "Key": "api reference",
+        "Name": "API Reference",
+        "prefix": "api",
+        "body": [
+            ""
+        ],
+        "description": "API Reference"
+    },
+    "appendix": {
+        "Key": "appendix",
+        "Name": "Appendix",
+        "prefix": "apex",
+        "body": [
+            "",
+            "## Appendix",
+            "",
+            "Any additional information goes here",
+            "",
+            ""
+        ],
+        "description": "Appendix"
+    },
+    "authors": {
+        "Key": "authors",
+        "Name": "Authors",
+        "prefix": "auth",
+        "body": [
+            "",
+            "## Authors",
+            "",
+            "- [@${2:Github}](https://www.github.com/${2:Github})",
+            "",
+            ""
+        ],
+        "description": "Authors"
+    },
+    "badges": {
+        "Key": "badges",
+        "Name": "Badges",
+        "prefix": "bad",
+        "body": [
+            "",
+            "## Badges",
+            "",
+            "Add badges from somewhere like: [shields.io](https://shields.io/)",
+            "",
+            "[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)",
+            "[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)",
+            "[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)",
+            "",
+            ""
+        ],
+        "description": "Badges"
+    },
+    "contributing": {
+        "Key": "contributing",
+        "Name": "Contributing",
+        "prefix": "con",
+        "body": [
+            "",
+            "## Contributing",
+            "",
+            "Contributions are always welcome!",
+            "",
+            "See `contributing.md` for ways to get started.",
+            "",
+            "Please adhere to this project's `code of conduct`.",
+            "",
+            ""
+        ],
+        "description": "Contributing"
+    },
+    "demo": {
+        "Key": "demo",
+        "Name": "Demo",
+        "prefix": "demo",
+        "body": [
+            "",
+            "## Demo",
+            "",
+            "Insert gif or link to demo",
+            "",
+            ""
+        ],
+        "description": "Demo"
+    },
+    "deployment": {
+        "Key": "deployment",
+        "Name": "Deployment",
+        "prefix": "deploy",
+        "body": [
+            "",
+            "## Deployment",
+            "",
+            "To deploy this project run",
+            "",
+            "```bash",
+            "  npm run deploy",
+            "```",
+            "",
+            ""
+        ],
+        "description": "Deployment"
+    },
+    "documentation": {
+        "Key": "documentation",
+        "Name": "Documentation",
+        "prefix": "doc",
+        "body": [
+            "",
+            "## Documentation",
+            "",
+            "[Documentation](https://linktodocumentation)",
+            "",
+            ""
+        ],
+        "description": "Documentation"
+    },
+    "environment variables": {
+        "Key": "environment variables",
+        "Name": "Environment Variables",
+        "prefix": "env",
+        "body": [
+            ""
+        ],
+        "description": "Environment Variables"
+    },
+    "faq": {
+        "Key": "faq",
+        "Name": "FAQ",
+        "prefix": "faq",
+        "body": [
+            "",
+            "## FAQ",
+            "",
+            "#### Question 1",
+            "",
+            "Answer 1",
+            "",
+            "#### Question 2",
+            "",
+            "Answer 2",
+            "",
+            ""
+        ],
+        "description": "FAQ"
+    },
+    "features": {
+        "Key": "features",
+        "Name": "Features",
+        "prefix": "feat",
+        "body": [
+            "",
+            "## Features",
+            "",
+            "- Light/dark mode toggle",
+            "- Live previews",
+            "- Fullscreen mode",
+            "- Cross platform",
+            "",
+            ""
+        ],
+        "description": "Features"
+    },
+    "feedback": {
+        "Key": "feedback",
+        "Name": "Feedback",
+        "prefix": "feed",
+        "body": [
+            "",
+            "## Feedback",
+            "",
+            "If you have any feedback, please reach out to us at fake@fake.com",
+            "",
+            ""
+        ],
+        "description": "Feedback"
+    },
+    "installation": {
+        "Key": "installation",
+        "Name": "Installation",
+        "prefix": "inst",
+        "body": [
+            "",
+            "## Installation",
+            "",
+            "Install my-project with npm",
+            "",
+            "```bash",
+            "  npm install my-project",
+            "  cd my-project",
+            "```",
+            ""
+        ],
+        "description": "Installation"
+    },
+    "lessons": {
+        "Key": "lessons",
+        "Name": "Lessons",
+        "prefix": "les",
+        "body": [
+            "",
+            "## Lessons Learned",
+            "",
+            "What did you learn while building this project? What challenges did you face and how did you overcome them?",
+            "",
+            ""
+        ],
+        "description": "Lessons"
+    },
+    "license": {
+        "Key": "license",
+        "Name": "License",
+        "prefix": "lic",
+        "body": [
+            "",
+            "## License",
+            "",
+            "[MIT](https://choosealicense.com/licenses/mit/)",
+            "",
+            ""
+        ],
+        "description": "License"
+    },
+    "logo": {
+        "Key": "logo",
+        "Name": "Logo",
+        "prefix": "logo",
+        "body": [
+            "",
+            "![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)",
+            "",
+            ""
+        ],
+        "description": "Logo"
+    },
+    "optimizations": {
+        "Key": "optimizations",
+        "Name": "Optimizations",
+        "prefix": "opt",
+        "body": [
+            "",
+            "## Optimizations",
+            "",
+            "What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility",
+            "",
+            ""
+        ],
+        "description": "Optimizations"
+    },
+    "readme": {
+        "Key": "readme",
+        "Name": "",
+        "prefix": "readme",
+        "body": [
+            "# ${1:Project Title}",
+            "",
+            "A brief description of what this project does and who it's for",
+            "",
+            "## Acknowledgements",
+            "",
+            " - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)",
+            " - [Awesome README](https://github.com/matiassingers/awesome-readme)",
+            " - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)",
+            "",
+            "",
+            "",
+            "",
+            "## Appendix",
+            "",
+            "Any additional information goes here",
+            "",
+            "",
+            "",
+            "## Authors",
+            "",
+            "- [@${2:Github}](https://www.github.com/${2:Github})",
+            "",
+            "",
+            "",
+            "## Badges",
+            "",
+            "Add badges from somewhere like: [shields.io](https://shields.io/)",
+            "",
+            "[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)",
+            "[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)",
+            "[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)",
+            "",
+            "",
+            "",
+            "## Contributing",
+            "",
+            "Contributions are always welcome!",
+            "",
+            "See `contributing.md` for ways to get started.",
+            "",
+            "Please adhere to this project's `code of conduct`.",
+            "",
+            "",
+            "",
+            "## Demo",
+            "",
+            "Insert gif or link to demo",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "## Support",
+            "",
+            "For support, email fake@fake.com or join our Slack channel.",
+            "",
+            "",
+            "",
+            "## Screenshots",
+            "",
+            "![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)",
+            "",
+            "",
+            "",
+            "",
+            "## Roadmap",
+            "",
+            "- Additional browser support",
+            "",
+            "- Add more integrations",
+            "",
+            "",
+            "",
+            "## Related",
+            "",
+            "Here are some related projects",
+            "",
+            "[Awesome README](https://github.com/matiassingers/awesome-readme)",
+            "",
+            "",
+            "",
+            "## Optimizations",
+            "",
+            "What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility",
+            "",
+            "",
+            "",
+            "![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)",
+            "",
+            "",
+            "",
+            "## License",
+            "",
+            "[MIT](https://choosealicense.com/licenses/mit/)",
+            "",
+            "",
+            "",
+            "## Lessons Learned",
+            "",
+            "What did you learn while building this project? What challenges did you face and how did you overcome them?",
+            "",
+            "",
+            "",
+            "## Installation",
+            "",
+            "Install my-project with npm",
+            "",
+            "```bash",
+            "  npm install my-project",
+            "  cd my-project",
+            "```",
+            "",
+            "",
+            "## Feedback",
+            "",
+            "If you have any feedback, please reach out to us at fake@fake.com",
+            "",
+            "",
+            "",
+            "## Features",
+            "",
+            "- Light/dark mode toggle",
+            "- Live previews",
+            "- Fullscreen mode",
+            "- Cross platform",
+            "",
+            "",
+            "",
+            "## FAQ",
+            "",
+            "#### Question 1",
+            "",
+            "Answer 1",
+            "",
+            "#### Question 2",
+            "",
+            "Answer 2",
+            "",
+            "",
+            "",
+            "",
+            "## Documentation",
+            "",
+            "[Documentation](https://linktodocumentation)",
+            "",
+            "",
+            "",
+            "## Deployment",
+            "",
+            "To deploy this project run",
+            "",
+            "```bash",
+            "  npm run deploy",
+            "```",
+            "",
+            ""
+        ],
+        "description": "Example README with all the sections"
+    },
+    "related": {
+        "Key": "related",
+        "Name": "Related",
+        "prefix": "rel",
+        "body": [
+            "",
+            "## Related",
+            "",
+            "Here are some related projects",
+            "",
+            "[Awesome README](https://github.com/matiassingers/awesome-readme)",
+            "",
+            ""
+        ],
+        "description": "Related"
+    },
+    "roadmap": {
+        "Key": "roadmap",
+        "Name": "Roadmap",
+        "prefix": "road",
+        "body": [
+            "",
+            "## Roadmap",
+            "",
+            "- Additional browser support",
+            "",
+            "- Add more integrations",
+            "",
+            ""
+        ],
+        "description": "Roadmap"
+    },
+    "run local": {
+        "Key": "run local",
+        "Name": "Run Local",
+        "prefix": "local",
+        "body": [
+            ""
+        ],
+        "description": "Running Locally"
+    },
+    "running tests": {
+        "Key": "running tests",
+        "Name": "Running Tests",
+        "prefix": "test",
+        "body": [
+            ""
+        ],
+        "description": "Running Tests"
+    },
+    "screenshots": {
+        "Key": "screenshots",
+        "Name": "Screenshots",
+        "prefix": "screen",
+        "body": [
+            "",
+            "## Screenshots",
+            "",
+            "![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)",
+            "",
+            ""
+        ],
+        "description": "Screenshots"
+    },
+    "support": {
+        "Key": "support",
+        "Name": "Support",
+        "prefix": "sup",
+        "body": [
+            "",
+            "## Support",
+            "",
+            "For support, email fake@fake.com or join our Slack channel.",
+            "",
+            ""
+        ],
+        "description": "Support"
+    },
+    "tech stack": {
+        "Key": "tech stack",
+        "Name": "Tech Stack",
+        "prefix": "tech",
+        "body": [
+            ""
+        ],
+        "description": "Tech Stack"
+    },
+    "title": {
+        "Key": "title",
+        "Name": "Title",
+        "prefix": "title",
+        "body": [
+            "# ${1:Project Title}",
+            "",
+            "A brief description of what this project does and who it's for"
+        ],
+        "description": "Title and Description"
+    },
+    "usage/examples": {
+        "Key": "usage/examples",
+        "Name": "Usage/Examples",
+        "prefix": "usa",
+        "body": [
+            ""
+        ],
+        "description": "Usage/Examples"
+    },
+    "used by": {
+        "Key": "used by",
+        "Name": "Used By",
+        "prefix": "used",
+        "body": [
+            ""
+        ],
+        "description": "Used By"
+    }
+}

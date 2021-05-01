@@ -1,0 +1,20 @@
+{
+    "name": "vscode-readme",
+    "displayName": "vscode-readme",
+    "description": "README markdown snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets.json"
+            }
+        ]
+    }
+}
