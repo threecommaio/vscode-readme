@@ -6,9 +6,9 @@
     "publisher": "threecomma",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ThreeCommaIO/vscode-readme"
+        "url": "https://github.com/threecommaio/vscode-readme"
     },
-    "homepage": "https://github.com/ThreeCommaIO/vscode-readme/blob/main/README.md",
+    "homepage": "https://github.com/threecommaio/vscode-readme/blob/main/README.md",
     "engines": {
         "vscode": "^1.55.0"
     },
